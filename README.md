@@ -26,7 +26,7 @@ This project was developed as part of our Software Engineering graduation curric
 
 ## 👥 Contributors
 * **Ekhlas Idris** - Software Engineering Graduate
-* [Fathalrahman Adam]
+* **Fathalrahman Adam - Software Engineering Graduate**
 
 ---
 *Developed as a graduation project at Al Neelain University.*
