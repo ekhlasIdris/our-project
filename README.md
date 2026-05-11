@@ -1,42 +1,32 @@
-# AI-Based Recipe and Meal Planning
+# AI-Based Recipe & Meal Planning Application 🥗🤖
 
-### By Fathalrhman Adam and Ekhlas Idris
+An intelligent web application designed to simplify healthy eating through personalized meal planning and AI-driven recipe suggestions.
 
-## Table of Contents
+## 🚀 Overview
+This project was developed as part of our Software Engineering graduation curriculum. The application leverages AI to analyze user preferences and generate customized meal plans, helping users maintain a balanced diet effortlessly.
 
-- [Introduction](#introduction)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+## 🛠️ Technical Stack
+* **Frontend:** React.js (Responsive UI/UX)
+* **Backend:** Node.js & Express.js
+* **Database:** PostgreSQL (Relational Database Management)
+* **AI Integration:** OpenAI API (for intelligent recipe generation)
+* **Version Control:** Git & GitHub
 
-## Introduction
+## ✨ Key Features
+* **Personalized Suggestions:** Uses AI to recommend recipes based on available ingredients or dietary goals.
+* **Meal Planning:** Allows users to organize their weekly meals efficiently.
+* **Smart Database:** Optimized PostgreSQL schema for fast retrieval of recipe data and user history.
+* **Secure Backend:** Robust API architecture built with Node.js.
 
-Welcome to our **AI-Based Recipe and Meal Planning**, a sophisticated mobile application crafted to transform the way you plan and prepare your meals. our app delivers personalized meal plans and recipe suggestions tailored to your unique dietary preferences and restrictions. This project represents the culmination of our Bachelor of Science in Honors in Software Engineering graduation endeavor.
+## 📖 How it Works
+1. Users input their dietary preferences or available ingredients.
+2. The backend processes this data and communicates with the **OpenAI API**.
+3. The system returns a structured meal plan or recipe tailored to the user's needs.
+4. Data is persisted in **PostgreSQL** for future reference and planning.
 
-## Contributing
-
-**Note:** Currently, this project is not accepting external contributions as it is undergoing its final development and evaluation phase. Post-defense, we may consider open-sourcing the project, at which point contributions will be welcome. Stay tuned for updates!
-
-## License
-
-This project is currently proprietary and all rights are reserved. Upon successful defense and open-sourcing, an appropriate open-source license will be applied.
-
-## Contact
-
-If you have any questions or concerns, feel free to reach out to us:
-
-- **Fathalrhman Adam:** [fathalrhman26@email.com](mailto:fathalrhman26@email.com)
-- **Ekhlas Idris:** [ekhlasidris28@email.com](mailto:ekhlasidris28@email.com)
-
-## Acknowledgements
-
-- **Mentors and Advisors:** Special thanks to our mentors who provided invaluable guidance throughout this project.
-- **API Providers:** Gratitude to OpenAI, Edamam, and YouTube for their APIs which powered our application.
-- **Team Members:** Appreciation for the collaborative efforts and dedication of all team members involved.
-
-## Stay Tuned!
-
-We are excited to share our progress and the final product with you. Follow our repository for updates, and thank you for your interest in our AI-Based Recipe and Meal Planning App!
+## 👥 Contributors
+* **Ekhlas Idris** - Software Engineering Graduate
+* [Fathalrahman Adam]
 
 ---
+*Developed as a graduation project at Al Neelain University.*
